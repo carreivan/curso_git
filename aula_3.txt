@@ -1,0 +1,48 @@
+    1  node --version
+    2  node --version
+    3  node --version
+    4  node--version
+    5  node--version
+    6  node --version
+    7  node --version
+    8  node --version
+    9  npm --version
+   10  npx --version
+   11  npm install --global gulp-cli
+   12  npm install --save-dev gulp
+   13  npm audit fix
+   14  gulp
+   15  gulp
+   16  git config user.name
+   17  cd Destop/
+   18  git config user.email
+   19  git init
+   20  git status
+   21  echo '#aprendendo usar o git' > readme.md
+   22  git status
+   23  git add readme.md
+   24  git status
+   25  git commit -m 'commit inicial'
+   26  git status
+   27  echo '##aula 1' >> readme.md
+   28  git status
+   29  git add .
+   30  git status
+   31  echo 'ivan carreño' > participantes.txt
+   32  git status
+   33  git add .
+   34  git status
+   35  git restore --staged participantes.txt
+   36  git status
+   37  git add .
+   38  git status
+   39  git restore staged .
+   40  git status
+   41  git restore --staged .
+   42  git status
+   43  git commit -am 'alteraçao no readme'
+   44  git status
+   45  git add participantes.txt
+   46  git status
+   47  git commit -m 'adicionado participantes.txt'
+   48  history > aula_3.txt
