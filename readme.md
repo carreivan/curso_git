@@ -1,7 +1,7 @@
 # Aprendendo usar o git
 
 
-## Aula 1
+## Auela 1
 
 
 O que foi que eu aprendi aqui?
